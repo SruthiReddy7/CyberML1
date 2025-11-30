@@ -383,7 +383,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**PRATHAM ZODAPE**
 - GitHub: [Rhythmz7](https://github.com/Rhythmz7)
 - LinkedIn: [Profile](https://www.linkedin.com/in/pratham-zodape)
 
