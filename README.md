@@ -9,7 +9,7 @@
 CyberML is a comprehensive cybersecurity analysis platform that leverages machine learning and AI to detect threats in files, URLs, and APIs. Built with FastAPI backend and React (Vite) frontend, it provides real-time security analysis with an intuitive dashboard.
 
 ---
-[Demo](https://github.com/user-attachments/assets/50d6c7cb-1834-415d-b25c-3dd8105b763f)
+[Demo](https://github.com/user-attachments/assets/22a68715-ea27-42e9-ab3b-e83078f2f759)
 ## ✨ Features
 
 ### 🔍 **File Analysis**
